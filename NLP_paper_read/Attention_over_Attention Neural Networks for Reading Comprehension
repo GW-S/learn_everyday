@@ -1,0 +1,53 @@
+cloze-style reading comprehension
+
+完形填空式的查询
+
+
+stereotype 陈规旧习
+
+heuristic  启发式的
+
+CNN and
+
+
+1.attention over attention
+2.re-ranking score
+
+{D,Q,A} 工作实际情况：D 是文档，Q是查询，A是回答，用D和Q中的信息，给A回答
+
+
+D 和 Q 用词向量矩阵 进行向量化
+
+bi-directional 双向
+
+e(x) =  W * x where x below D,Q
+h(x) --> = GRU --->(e(x))
+h(x) = [h(x) h(x)]
+
+GRU 是什么
+
+GRU是LSTM的变体，然而我把这个忘记了
+https://blog.csdn.net/wangyangzhizhou/article/details/77332582
+
+我们会发现，M(i，j) 这么一个矩阵
+矩阵是用doc 和 query 来进行构建的
+然后对每个word 计算点程作为其值score的分数
+
+现在我不懂attention是什么东西了
+
+dot 其实就是在求欧式距离
+
+
+M[i,j] 不知道是怎么算的
+
+
+
+
+
+
+
+
+
+
+
+

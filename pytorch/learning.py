@@ -73,6 +73,35 @@ And see thy blood warm when thou feel'st it cold.""".split()
 trigrams = [([test_sentence[i],test_sentence[i+1]] , test_sentence[i+2]) for i in range(len(test_sentence)-2)]
 print(trigrams[:3])
 
+
 vocab = set(test_sentence)
+word_to_ix  = {word:i for i,word in enumerate(vocab)}
+
+class NGramLanguageModeler(nn.Module):
+     def __init__(self,vocab_size,embedding_dim,context_size):
+         super(NGramLanguageModeler,self).__init__()
+         self.embeddings = nn.Embedding(vocab_size,embedding_dim) # V * N
+         self.linear1 = nn.Linear(context_size * embedding_dim,128)
+         self.linear2 = nn.Linear(128,vocab_size)
+
+     def forward(self,inputs):
+         embeds = self.embeddings(inputs).view((1,-1))
+         out = F.relu(self.linear1(embeds))
+         out = self.linear2(out)
+         log_probs  = F.log_softmax(out,dim=1)
+         return log_probs
+
+losses = []
+loss_function = nn.NLLLoss()
+model = NGramLanguageModeler(len(vocab),EMBEDDING_DIM,CONTEXT_SIZE)
+optimizer = optim.SGD(model.parameters(),lr = 0.001)
+
+for epoch in range(10):
+    total_loss = 0
+    for context,target in trigrams:
+
+        context_idxs = torch.tensor([word_to_ix[w] for w in context],dtype = dtype = )
+
+
 
 
