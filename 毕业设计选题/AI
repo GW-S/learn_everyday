@@ -1,0 +1,116 @@
+1.Alogorithms for Trip-Vehicle Assignment in Ride-Sharing                                                               共享汽车，两个位置有人要求共享一个车，这个问题变成了NP难的问题
+
+2.EAD：Elastic-Net Attacks to Deep Neural Network via Adversarial Examples                                               对抗神经网络的亦攻击性，并提出解决办法
+
+3.Learning Differences Between Visual Scanning Patterns Can Disambiguote Bipolar and Unipolar Patients                  通过语言，面部，区分两种抑郁病人的区别
+
+4.Comparing Population Means Under Local Differential Privacy: With Significance and Power.                             专注于隐私保护，在菜鸡用户之前就能实现这个方法
+
+5.MuseGAN: Multi-track Sequential Generative Adversarial Networks for Symbolic Music Generation and Accompaniment.      音乐的生成，以及遇到的问题
+
+6.Picasso, Matisse, or a Fake? Automated Analysis of Drawings at the Stroke Level for Attribution and Authentication.   一种文字的方法，提出了比划的构成
+
+7.Beyond Distributive Fairness in Algorithmic Decision Making: Feature Selection for Procedurally Fair Learning.        机器学习的决策层可能对某些人不公平
+
+8.Distributed Composite Quantization.                                                                                   ANN 近似最近邻的优化算法
+
+9.Tensorized Projection for High-Dimensional Binary Embedding.                                                          一种embedding的方法
+
+10.
+
+11.Norm Conflict Resolution in Stochastic Domains.                                                                      解决客服中的人工智能规范问题
+
+12.Deep Representation-Decoupling Neural Networks for Monaural Music Mixture Separation.                                在单声道混合中提取和重建不同的声源
+
+13.Early Prediction of Diabetes Complications from Electronic Health Records: A Multi-Task Survival Analysis Approach.  预测并发症的时间
+
+14.Learning the Joint Representation of Heterogeneous Temporal Events for Clinical Endpoint Prediction.                 医疗方面的东西
+
+15.Multi-View Multi-Graph Embedding for Brain Network Clustering Analysis                                               AI 在脑研究的使用
+
+16.Uplink Communication Efficient Differentially Private Sparse Optimization With Feature-Wise Distributed Data.        ？？？？
+
+17.Learning the Probability of Activation in the Presence of Latent Spreaders.                                          传染病的预测
+
+18.Generating an Event Timeline About Daily Activities From a Semantic Concept Stream.                                  对于环境生成时间戳
+
+19.On Organizing Online Soirees with Live Multi-Streaming.                                                              在流媒体中考虑个人的偏好问题
+
+20.An AI Planning Solution to Scenario Generation for Enterprise Risk Management.                                       AI 在生产方案上的作用，自动生成生产方案
+
+21.Automated Segmentation of Overlapping Cytoplasm in Cervical Smear Images via Contour Fragments.                      自动分割重叠细胞质
+
+22.When Social Advertising Meets Viral Marketing: Sequencing Social Advertisements for Influence Maximization.          将病毒式营销，整合到现有广告排序之中
+
+23.Synthesis of Programs from Multimodal Datasets.                                                                      完全不懂，多数据集中？？？？
+
+24.CD-CNN: A Partially Supervised Cross-Domain Deep Learning Model for Urban Resident Recognition.                      针对城市化的迁移分析提出了一种算法
+
+25.Geographic Differential Privacy for Mobile Crowd Coverage Maximization.                                              隐私保护
+
+26.Catching Captain Jack: Efficient Time and Space Dependent Patrols to Combat Oil-Siphoning in International Waters.   针对互联网贸易的尝试
+
+27.Video Summarization via Semantic Attended Networks.                                                                  视频摘要
+
+28.TIMERS: Error-Bounded SVD Restart on Dynamic Networks.                                                               参数预测，和网络链路表征
+
+29.Ranking Users in Social Networks With Higher-Order Structures.                                                       page rank 动态排名
+
+
+
+
+1.Mitigating Overexposure in Viral Marketing.                                                                           人们过于注重口耳相传，反而引起缺陷
+
+2.Neural Link Prediction over Aligned Networks.                                                                         链接预测，预测出尚未观察到的连接或未来可能出现的链接
+
+3.Privacy Preserving Point-of-Interest Recommendation Using Decentralized Matrix Factorization.                         对MF的POI的改进
+
+4.CA-RNN: Using Context-Aligned Recurrent Neural Networks for Modeling Sentence Similarity.
+
+5.Dual Deep Neural Networks Cross-Modal Hashing.
+
+
+
+
+
+
+
+
+Machine Learning methods
+
+1.
+
+
+
+Machine Learning Applications
+
+1.Predicting Vehicular Travel Times by Modeling Heterogeneous Influences Between Arterial Roads.
+
+2.Deep-Treat: Learning Optimal Personalized Treatments From Observational Data Using Neural Networks.
+
+3.DeepHeart: Semi-Supervised Sequence Learning for Cardiovascular Risk Prediction.
+
+4.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"""
+人工智能对住房问题的解决？？？？
+选择房源
+
+
+帮人认清自己内心的黑暗面
+"""
+
+
