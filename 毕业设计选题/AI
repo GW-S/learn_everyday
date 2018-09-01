@@ -1,3 +1,5 @@
+Applications:
+
 1.Alogorithms for Trip-Vehicle Assignment in Ride-Sharing                                                               共享汽车，两个位置有人要求共享一个车，这个问题变成了NP难的问题
 
 2.EAD：Elastic-Net Attacks to Deep Neural Network via Adversarial Examples                                               对抗神经网络的亦攻击性，并提出解决办法
@@ -57,6 +59,8 @@
 29.Ranking Users in Social Networks With Higher-Order Structures.                                                       page rank 动态排名
 
 
+########################################################################################################
+Artificial Intelligence and the Web                                                 人工智能和网络
 
 
 1.Mitigating Overexposure in Viral Marketing.                                                                           人们过于注重口耳相传，反而引起缺陷
@@ -73,32 +77,737 @@
 
 
 
+########################################################################################################################
+Cognitive Systems   认知系统
+
+Explicit Reasoning over End-to-End Neural Architectures for Visual Question Answering.                                  用于视觉问答的端对端神经架构的显示推理
+
+Action Recognition From Skeleton Data via Analogical Generalization Over Qualitative Representations.                   骨骼数据识别
+
+Glass-Box Program Synthesis: A Machine Learning Approach.                                                               玻璃盒问题
+
+Learning From Unannotated QA Pairs to Analogically Disambiguate and Answer Questions.                                   学习回答自然语言问题的系统
+
+Style Transfer in Text: Exploration and Evaluation.                                                                     一种衡量语义和文档的区别
+
+HAN: Hierarchical Association Network for Computing Semantic Relatedness.                                               一种提高了网络分配精度的方法
+
+Maximizing Activity in Ising Networks via the TAP Approximation.                                                        统计物理学和机器学习的交叉点
+
+Expected Utility with Relative Loss Reduction: A Unifying Decision Model for Resolving Four Well-Known Paradoxes.       决策中的悖论问题
+
+
+Towards Building Large Scale Multimodal Domain-Aware Conversation Systems.                                              多模式会话，解决其中的问题
+
+Complex Sequential Question Answering: Towards Learning to Converse Over Linked Question Answer Pairs with a Knowledge
+Graph.                                                                                                                  图模型的应用
+
+The Structural Affinity Method for Solving the Raven's Progressive Matrices Test for Intelligence.                      图模型的应用
+
+RUBER: An Unsupervised Method for Automatic Evaluation of Open-Domain Dialog Systems.                                   开放域人机对话一直受到越来越多的关注。
+
+Emotional Chatting Machine: Emotional Conversation Generation with Internal and External Memory.                        可以模拟情感的机器。
+
+
+########################################################################################################################
+Computational Sustainability and AI
+
+1.文本中的文体转换：探索与评价。
+
+2.DyETC：动态电子不停车收费的交通拥塞减轻。
+
+3.在不确定性下预防动态人群中的传染病。
+
+
+########################################################################################################################
+Game Playing and Interactive Entertainment
+
+使用深度神经网络生成自动故事的事件表示。
+
+########################################################################################################################
+
+对电子商务欺诈行为强化机制设计。
+
+
+########################################################################################################################
+
+
+Heuristic Search and Optimization
+
+个性化视频摘要。
+
+AI如何通过廉价谈话赢得朋友并以重复游戏影响人们。
+
+通过离线政策评估优化干预：公民科学研究。
+
+
+########################################################################################################################
+
+Human Computation and Crowd Sourcing
 
 
 
-Machine Learning methods
-
-1.
-
-
-
-Machine Learning Applications
-
-1.Predicting Vehicular Travel Times by Modeling Heterogeneous Influences Between Arterial Roads.
-
-2.Deep-Treat: Learning Optimal Personalized Treatments From Observational Data Using Neural Networks.
-
-3.DeepHeart: Semi-Supervised Sequence Learning for Cardiovascular Risk Prediction.
-
-4.
 
 
 
 
 
 
+########################################################################################################################
+Machine Learning Applications           机器学习应用
+
+1.Predicting Vehicular Travel Times by Modeling Heterogeneous Influences Between Arterial Roads.                        预测车到达的时间
+
+2.Deep-Treat: Learning Optimal Personalized Treatments From Observational Data Using Neural Networks.                   个人的医疗
+
+3.DeepHeart: Semi-Supervised Sequence Learning for Cardiovascular Risk Prediction.                                      半监督对心脏病的处理
+
+4.CSWA: Aggregation-Free Spatial-Temporal Community Sensing.                                                            传感器的算法？？？
+
+5.Multi-Level Variational Autoencoder: Learning Disentangled Representations From Grouped Observations                  多级变分码器，用来解决只针对分布进行分布的问题
+
+6.Dress Fashionably: Learn Fashion Collocation With Deep Mixed-Category Metric Learning.                                机器学习在衣服搭配上的应用
+
+7.Modeling Scientific Influence for Research Trending Topic Prediction.                                                 研究领域研究的趋势
+                            这个带给我一个思考，论文研究，在小说研究中能够使用吗
+8.Adversarial Network Embedding.                                                                                        对抗神经网络
+
+9.Collaborative Filtering With User-Item Co-Autoregressive Models.                                                      协同过滤
+
+10.A Neural Attention Model for Urban Air Quality Inference: Learning the Weights of Monitoring Stations.               城镇空气预测
+
+11.Modeling Temporal Tonal Relations in Polyphonic Music Through Deep Networks With a Novel Image-Based Representation. 预测音乐的建模方法
+
+12.Adversarial Network Embedding.
+
+13.Collaborative Filtering With User-Item Co-Autoregressive Models.                                                     协同过滤
+
+14.The Shape of Art History in the Eyes of the Machine.                                                                 艺术品的历史
+
+15.Multi-Step Time Series Generator for Molecular Dynamics.
+
+16.Search Action Sequence Modeling With Long Short-Term Memory for Search Task Success Evaluation.                      分子动力学
+
+17.Discriminant Projection Representation-Based Classification for Vision Recognition.                                  投影爆炸
+
+18.The Geometric Block Model.                                                                                           社区检测理论
+
+19.Group-Pair Convolutional Neural Networks for Multi-View Based 3D Object Retrieval.                                   3D对象检索
+
+20.Dependence Guided Unsupervised Feature Selection.                                                                    特征选择
+
+21.On Trivial Solution and High Correlation Problems in Deep Supervised Hashing.
+
+22.Learning User Preferences to Incentivize Exploration in the Sharing Economy.                                         对共享经济进行分析
+
+23.Video-Based Sign Language Recognition Without Temporal Segmentation.                                                 图像
+
+24.Energy-Efficient Automatic Train Driving by Learning Driving Patterns.
+
+25.Video-Based Person Re-Identification via Self Paced Weighting.
+
+26.Generating Music Medleys via Playing Music Puzzle Games.                                                             生成音乐
+
+27.Link Prediction With Personalized Social Influence.
+
+28.Task-Aware Compressed Sensing With Generative Adversarial Networks.
+
+29.Context-Aware Symptom Checking for Disease Diagnosis Using Hierarchical Reinforcement Learning.                      疾病
+
+30.DeepHit: A Deep Learning Approach to Survival Analysis With Competing Risks.
+
+31：DeepRebirth: Accelerating Deep Neural Network Execution on Mobile Devices.                                           移动网络加速特征执行
+
+32 Discriminative Semi-Coupled Projective Dictionary Learning for Low-Resolution Person Re-Identification.
+
+33.Unified Locally Linear Classifiers With Diversity-Promoting Anchor Points.                                           锚点评估
+
+34.Multi-Modal Multi-Task Learning for Automatic Dietary Assessment.                                                    膳食评定
+
+35.Distance-Aware DAG Embedding for Proximity Search on Heterogeneous Graphs.
+
+36.Semi-Supervised Biomedical Translation With Cycle Wasserstein Regression GANs.                                       生物上的大量不成对的数据
+
+37.Probabilistic Ensemble of Collaborative Filters.
+
+38.A Combinatorial-Bandit Algorithm for the Online Joint Bid/Budget Optimization of Pay-per-Click Advertising Campaigns.按点击付费的一种优化方法
+
+39.Hierarchical Video Generation From Orthogonal Information: Optical Flow and Texture.
+
+40.Sequence-to-Sequence Learning via Shared Latent Representation.                                                      序列到序列的学习
+
+41.Compatibility Family Learning for Item Recommendation and Generation.
+
+42.Neural Ideal Point Estimation Network.                                                                               政治舆情分析
+
+43.Nonlocal Patch Based t-SVD for Image Inpainting: Algorithm and Error Analysis.                                       图片修补
+
+44.r-BTN: Cross-Domain Face Composite and Synthesis From Limited Facial Patches.                                        面部补全
+
+45.Exercise-Enhanced Sequential Modeling for Student Performance Prediction.                                            个人学校运动预测
+
+46.Compressed Sensing MRI Using a Recursive Dilated Network.
+
+47.Mesh-Based Autoencoders for Localized Deformation Component Analysis.                                                局部变量分析
+
+48.Maximum-Variance Total Variation Denoising for Interpretable Spatial Smoothing.                                      去噪的东西
+
+49.Differential Performance Debugging With Discriminant Regression Trees.                                               差分性能调试
+
+50.Adversarial Zero-shot Learning With Semantic Augmentation.
+
+51.Model-Free Iterative Temporal Appliance Discovery for Unsupervised Electricity Disaggregation.                       电力分解模型
+
+52.Multimodal Poisson Gamma Belief Network.
+
+53.When Will You Arrive? Estimating Travel Time Based on Deep Neural Networks.                                          基于深度学习的旅行时间估算
+
+54.GraphGAN: Graph Representation Learning With Generative Adversarial Nets.
+
+55.Collaborative Filtering With Social Exposure: A Modular Approach to Social Recommendation.                           社会推荐的模块化
+
+56.AJILE Movement Prediction: Multimodal Deep Learning for Natural Human Neural Recordings and Video.                   运动预测
+
+57.Attention-Based Transactional Context Embedding for Next-Item Recommendation.                                        推荐系统
+
+58.Fully Convolutional Network Based Skeletonization for Handwritten Chinese Characters.                                手写字符结构分析
+
+59.Directional Label Rectification in Adaptive Graph.                                                                   自适应图中的方向标签的认证
+
+60.Hybrid Attentive Answer Selection in CQA With Deep Users Modelling.                                                  混合求助数据选择
+
+61.Modeling Attention and Memory for Auditory Selection in a Cocktail Party Environment.                                鸡尾酒会中的听觉选择
+
+62.Measuring the Popularity of Job Skills in Recruitment Market: A Multi-Criteria Approach.                             工作时长中的工作普及程度
+
+63.Learning Generative Neural Networks for 3D Colorization.                                                             3D 分类
+
+64.Deep Multi-View Spatial-Temporal Network for Taxi Demand Prediction.                                                 黄包车需求预测
+
+65.WalkRanker: A Unified Pairwise Ranking Model With Multiple Relations for Item Recommendation.                        两两排序模型
+
+66.Sequence-to-Point Learning With Neural Networks for Non-Intrusive Load Monitoring.                                   负荷检测
+
+67.Feature Enhancement Network: A Refined Scene Text Detector.                                                          特征检测
+
+68.COSINE: Community-Preserving Social Network Embedding From Information Diffusion Cascades.                           社会网络
+
+69.Data Poisoning Attacks on Multi-Task Relationship Learning.                                                          多任务学习是一种机器学习的范例
+
+70.Unsupervised Representation Learning With Long-Term Dynamics for Skeleton Based Action Recognition.                  运动预测
+
+71.SFCN-OPI: Detection and Fine-Grained Classification of Nuclei Using Sibling FCN With Objectness Prior Interaction.   细胞粒分别
+
+72.Parameter-Free Centralized Multi-Task Learning for Characterizing Developmental Sex Differences in Resting State
+Functional Connectivity.                                                                                                一种对性别的分类方法。
+
+########################################################################################################################
+
+NLP and knowledge Representation        NLP和知识表示
+
+1.Effective Broad-Coverage Deep Parsing.
+
+2.Faithful to the Original: Fact Aware Neural Abstractive Summarization.
+
+3.A Semantic QA-Based Approach for Text Summarization Evaluation.                                                       一种语义的评估方法
+
+4.Learning Sentiment-Specific Word Embedding via Global Sentiment Representation.
+
+5.280 Birds With One Stone: Inducing Multilingual Taxonomies From Wikipedia Using Character-Level Classification.       使用字符级进行分配,从维基百科诱导多语言分类
+
+6.Table-to-Text Generation by Structure-Aware Seq2seq Learning.                                                         从表格到文字
+
+7.Never Retreat, Never Retract: Argumentation Analysis for Political Speeches.                                          整理出论点不同的点
+
+8.Early Syntactic Bootstrapping in an Incremental Memory-Limited Word Learner.                                          增量记忆首先学习者的早期句法引导
+
+9.Recognizing and Justifying Text Entailment Through Distributional Navigation on Definition Graphs.                    通过定义图上的分布式导航来识别和证明文本蕴涵。
+
+10.Event Representations With Tensor-Based Compositions.                                                                基于张量的组合事件的表示
+
+11.Does William Shakespeare REALLY Write Hamlet? Knowledge Representation Learning With Confidence.                     置信度学习进行知识表示
+
+12.Multi-Channel Encoder for Neural Machine Translation.
+
+13.Augmenting End-to-End Dialogue Systems With Commonsense Knowledge.                                                   利用常识来增强端到端对话系统
 
 
+
+#######################################################################################################################
+
+NLP and Machine Learning
+
+Lattice Recurrent Unit: Improving Convergence and Statistical Efficiency for Sequence Modeling.                         提高序列建模的建模和效率
+
+Leveraging Lexical Substitutes for Unsupervised Word Sense Induction.                                                   利用词汇替代来进行非监督词义归纳
+
+Table-to-Text: Describing Table Region With Natural Language.                                                           用文本来描述表格中的内容
+                                                                            根据表格来生成文本
+
+Learning Interpretable Spatial Operations in a Rich 3D Blocks World.                                                    在3D空间中，学习操作
+
+Using k-Way Co-Occurrences for Learning Word Embeddings.                                                                词嵌入
+
+Proposition Entailment in Educational Applications using Deep Neural Networks.                                          参考答案命题和学生答案之间的蕴含关系
+
+cw2vec: Learning Chinese Word Embeddings with Stroke n-gram Information.                                                N-GRAM
+
+Knowledge-based Word Sense Disambiguation using Topic Models.                                                           基于主题模型的
+
+Meta Multi-Task Learning for Sequence Modeling.                                                                         多任务学习，其实就是迁移学习
+
+IMS-DTM: Incremental Multi-Scale Dynamic Topic Models.
+
+Zero-Resource Neural Machine Translation with Multi-Agent Communication Game.
+
+Learning to Compose Task-Specific Tree Structures.                                                                      学习构成特定任务的树结构
+
+Geometric Relationship between Word and Context Representations.
+
+A Knowledge-Grounded Neural Conversation Model.
+
+Learning to Predict Readability Using Eye-Movement Data From Natives and Learners.                                      学习使用来自原住民和学习者的眼动数据来预测可读性。
+                                                                                     这个有点意思，我可以做一个好文章还是坏文章
+
+Neural Machine Translation with Gumbel-Greedy Decoding.                                                                 Gumbel-Greedy解码的神经机器翻译。
+
+Search Engine Guided Neural Machine Translation.
+
+Long Text Generation via Adversarial Training with Leaked Information.                                                  利用泄露信息进行对抗性训练生成长文本。
+                                                                    对抗信息生成长文本
+A Deep Generative Framework for Paraphrase Generation.                                                                  复述生成
+
+Placing Objects in Gesture Space: Toward Incremental Interpretation of Multimodal Spatial Descriptions.                 将对象手势防止在手势空间中，走向多模空间的增量解释
+
+Jointly Parse and Fragment Ungrammatical Sentences.                                                                     共同解析和片段不合语法的句子。
+
+Persuasive Influence Detection: The Role of Argument Sequencing.                                                        说服力检测，论排版的作用
+
+An Interpretable Generative Adversarial Approach to Classification of Latent Entity Relations in Unstructured Sentences.可解释生成对抗方法
+
+SciTaiL: A Textual Entailment Dataset from Science Question Answering.                                                  一个数据集的诞生
+
+Efficient Large-Scale Multi-Modal Classification.                                                                       高效的大规模多模态分类。
+
+Neural Character-level Dependency Parsing for Chinese.
+
+Conversational Model Adaptation via KL Divergence Regularization.                                                       会话模型自适应
+
+Slim Embedding Layers for Recurrent Neural Language Models.                                                             一个嵌入层
+
+Automatic Generation of Text Descriptive Comments for Code Blocks.                                                      对代码块自动生成评论
+
+BBQ-Networks: Efficient Exploration in Deep Reinforcement Learning for Task-Oriented Dialogue Systems.                  对话系统的强化学习探索
+
+Customized Nonlinear Bandits for Online Response Selection in Neural Conversation Models.                               在线响应模型
+
+Empower Sequence Labeling with Task-Aware Neural Language Model.                                                        使用任务感知神经语言模型增强序列标记。
+
+Semantic Structure-Based Word Embedding by Incorporating Concept Convergence and Word Divergence.                       基于语义结构的词汇嵌入融合概念收敛与词汇发散。
+
+Improved Text Matching by Enhancing Mutual Information.                                                                 增强手写能力
+
+Improving Language Modelling with Noise Contrastive Estimation.
+
+Sentence Ordering and Coherence Modeling using Recurrent Neural Networks.
+
+CoChat: Enabling Bot and Human Collaboration for Task Completion.                                                       机器人和人的合作？
+
+Eliciting Positive Emotion through Affect-Sensitive Dialogue Response Generation: A Neural Network Approach.            通过影响敏感的对话响应生成引发积极情绪：一种神经网络方法。
+
+
+Fact Checking in Community Forums.                                                                                      社区论坛中的事实检查。
+
+Personalizing a Dialogue System With Transfer Reinforcement Learning.                                                   利用转移强化学习个性化对话系统
+
+Context Aware Conversational Understanding for Intelligent Agents With a Screen.                                        使用只能代理感知上下文会话理解
+
+Controlling Global Statistics in Recurrent Neural Network Text Generation.                                              文本生成
+
+Few Shot Transfer Learning BetweenWord Relatedness and Similarity Tasks Using A Gated Recurrent Siamese Network.        ？？？
+
+Question-Answering with Grammatically-Interpretable Representations.                                                    翻译
+
+Canonical Correlation Inference for Mapping Abstract Scenes to Text.                                                    用于将抽象场景映射到文本
+
+Exploring the Terrain of Metaphor Novelty: A Regression-Based Approach for Automatically Scoring Metaphors.             探索隐喻
+
+Attention-based Belief or Disbelief Feature Extraction for Dependency Parsing.                                          依存分析
+
+Two Knowledge-based Methods for High-Performance Sense Distribution Learning.                                           感觉分布学习
+
+Multi-Task Learning For Parsing The Alexa Meaning Representation Language.                                              迁移学习
+
+Order-Planning Neural Text Generation From Structured Data.                                                             从数据中生成文本
+
+A Multi-View Fusion Neural Network for Answer Selection.                                                                回答挑选
+
+Unity in Diversity: Learning Distributed Heterogeneous Sentence Representation for Extractive Summarization.            语句表示抽取摘要
+
+Spectral Word Embedding with Negative Sampling.                                                                         词聚类
+
+Source-Target Inference Models for Spatial Instruction Understanding.                                                   空间指令的推理模型
+
+How Images Inspire Poems: Generating Classical Chinese Poetry from Images with Memory Networks.                         如何从图片中生成意向诗歌
+
+                                                                为什么不能从图片中生成音乐呢？
+                                                                Question and Answer 扩展
+Large Scaled Relation Extraction With Reinforcement Learning.                                                           关系摘取
+
+End-to-End Quantum-like Language Models with Application to Question Answering.                                         知识问答
+
+Addressee and Response Selection in Multi-Party Conversations With Speaker Interaction RNNs.                            RNN
+
+Asynchronous Bidirectional Decoding for Neural Machine Translation.                                                     机器翻译，阅读理解
+
+Elastic Responding Machine for Dialog Generation with Dynamically Mechanism Selecting.                                  具有动态选择机制的弹性应答机？
+
+
+########################################################################################################################
+
+NLP and Text Mining     NLP 和 数据挖掘
+
+Generative Adversarial Network Based Heterogeneous Bibliographic Network Representation for Personalized
+Citation Recommendation。                                                                                               基于生成对抗网络的异构书目网络表示个性化引文推荐。
+
+A Multilayer Convolutional Encoder-Decoder Neural Network for Grammatical Error Correction.                             语法纠错的模型
+
+3.Weakly Supervised Induction of Affective Events by Optimizing Semantic Consistency.                                   情感事件规划
+
+Reinforcement Learning for Relation Classification From Noisy Data.                                                     基于噪声数据的关系分类强化学习。
+
+Weakly Supervised Induction of Affective Events by Optimizing Semantic Consistency.                                     优化语义一致性弱势监督情感事件的归纳。
+
+Cross-Lingual Propagation for Deep Sentiment Analysis.                                                                  情感分析
+
+Twitter Summarization Based on Social Network and Sparse Reconstruction.                                                基于社交网络和稀疏重构的Twitter总结。
+
+SEE: Syntax-Aware Entity Embedding for Neural Relation Extraction.                                                      用于神经关系提取的语法感知实体嵌入。
+
+Semi-Distantly Supervised Neural Model for Generating Compact Answers to Open-Domain Why Questions.                     在智能问答中的问题
+
+Task-Specific Representation Learning for Web-Scale Entity Disambiguation.                                              web消漆问题
+
+Byte-Level Machine Reading Across Morphologically Varied Languages.                                                     字节集机器阅读
+
+A Question-Focused Multi-Factor Attention Network for Question Answering.                                               一个以问题为重点的多因素注意网络用于问答。
+
+Training and Evaluating Improved Dependency-Based Word Embeddings.                                                      培训和评估改进的基于依赖的词嵌入。
+
+Inference on Syntactic and Semantic Structures for Machine Comprehension.                                                机器理解的句法和语义结构推理。
+
+Hierarchical Attention Transfer Network for Cross-Domain Sentiment Classification.                                      跨域情感分类的分层注意转移网络。
+
+Dynamic User Profiling for Streams of Short Texts.                                                                      动态用户分析问题
+
+Multi-Task Medical Concept Normalization Using Multi-View Convolutional Neural Network.                                 基于多视图卷积神经网络的多任务医学概念规范化。
+
+Targeted Aspect-Based Sentiment Analysis via Embedding Commonsense Knowledge into an Attentive LSTM.                    情感分析
+
+Cognition-Cognizant Sentiment Analysis With Multitask Subjectivity Summarization Based on Annotators' Gaze Behavior.    基于注释者凝视行为的多任务主体性总结认知 - 认知情感分析。
+
+Argument Mining for Improving the Automated Scoring of Persuasive Essays.                                               改进说服性论文自动评分的论证挖掘。
+
+                                                                                      idea:对以往的文章进行评分，然后对新写的文章进行分析。对文章进行打分，作为参考。
+Graph Convolutional Networks With Argument-Aware Pooling for Event Detection.                                           世件检测
+
+Mention and Entity Description Co-Attention for Entity Disambiguation.                                                  图形卷积网络，具有用于事件检测的参数识别池。
+
+Jointly Extracting Event Triggers and Arguments by Dependency-Bridge RNN and Tensor-Based Argument Interaction.         事件触发器？？？
+
+Content and Context: Two-Pronged Bootstrapped Learning for Regex-Formatted Entity Extraction.                           实体特征摘取
+
+Towards a Neural Conversation Model With Diversity Net Using Determinantal Point Processes.                             ？？？？？
+
+S-Net: From Answer Extraction to Answer Synthesis for Machine Reading Comprehension.                                    机器学习阅读理解
+
+SkipFlow: Incorporating Neural Coherence Features for End-to-End Automatic Text Scoring.                                自动文本评分
+
+Learning to Attend via Word-Aspect Associative Fusion for Aspect-Based Sentiment Analysis.                              情感分析
+
+Investigating Inner Properties of Multimodal Representation and Semantic Compositionality With Brain-Based Componential 基于脑的成分语义研究多模态表征和语义成分的内在属性。
+Semantics.
+
+Learning Multimodal Word Representation via Dynamic Fusion Methods.                                                     多态词表示
+
+R3: Reinforced Ranker-Reader for Open-Domain Question Answering.                                                        增强学习
+
+Improving Review Representations With User Attention and Product Attention for Sentiment Classification.                情感分类问题
+
+
+
+Improving Neural Fine-Grained Entity Typing With Knowledge Attention.
+Diagnosing and Improving Topic Models by Analyzing Posterior Variability.
+Dual Attention Network for Product Compatibility and Function Satisfiability Analysis.                                  阅读理解是最近很火的一个话题
+Assertion-Based QA With Question-Aware Open Information Extraction.
+Multi-Entity Aspect-Based Sentiment Analysis With Context, Entity and Aspect Memory.                                    文本分类和增强学习
+OTyper: A Neural Architecture for Open Named Entity Typing.
+Scale Up Event Extraction Learning via Automatic Training Data Generation.
+Duplicate Question Identification by Integrating FrameNet With Neural Networks.
+Learning Structured Representation for Text Classification via Reinforcement Learning.
+
+########################################################################################################################
+Planning and Scheduling  规划和调度
+
+Resource-Constrained Scheduling for Maritime Traffic Management.                                                        海上资源规划与调度
+
+Classical Planning in Deep Latent Space: Bridging the Subsymbolic-Symbolic Boundary.                                    深度学习空间
+
+Planning With Pixels in (Almost) Real Time.                                                                             实时调度像素
+
+Sublinear Search Spaces for Shortest Path Planning in Grid and Road Networks.                                           网格和路网
+
+Scheduling in Visual Fog Computing: NP-Completeness and Practical Efficient Solutions.                                  视觉雾计划
+
+Fat- and Heavy-Tailed Behavior in Satisficing Planning.                                                                 一种行为分析
+
+Finite Sample Analyses for TD(0) With Function Approximation.
+
+Synthesis of Orchestrations of Transducers for Manufacturing.
+
+Plan Recognition in Continuous Domains.                                                                                 连续域中的自动识别
+
+Load Scheduling of Simple Temporal Networks Under Dynamic Resource Pricing.                                             动态资源定价下简单时态网络负载调度。
+
+Knowledge-Based Policies for Qualitative Decentralized POMDPs.                                                          基于知识的定性分散POMDP策略。
+
+Stackelberg Planning: Towards Effective Leader-Follower State Space Search.                                             Stackelberg规划：迈向有效的领导者 - 追随者状态空间搜索。
+
+########################################################################################################################
+Reasoning under Uncertainty                  不确定推理
+
+Combining Experts' Causal Judgments.                                                                                    结合专家的因果判断
+
+An Experimental Study of Advice in Sequential Decision-Making Under Uncertainty.                                        一种辅助决策的方法
+
+RelNN: A Deep Neural Model for Relational Learning.                                                                     深层网络与一阶逻辑相结合
+
+Anytime Anyspace AND/OR Best-First Search for Bounding Marginal MAP.                                                    边际地图贝叶斯推理和决策的关键任务
+
+Hawkes Process Inference With Missing Data.                                                                             缺失数据推理
+
+Efficient-UCBV: An Almost Optimal Algorithm Using Variance Estimates.                                                   使用方差估计的最优算法
+
+
+########################################################################################################################
+Robotics                                    机器人学
+
+IONet: Learning to Cure the Curse of Drift in Inertial Odometry.                                                        IONet：学习惯性惯性测量中的漂移诅咒。
+
+Improved Results for Minimum Constraint Removal.                                                                        障碍物和平面中的两个指定点
+
+Guiding Search in Continuous State-Action Spaces by Learning an Action Sampler From Off-Target Search Experience.       通过从非目标搜索经验中学习动作取样器来指导连续状态空间中的搜索
+
+Building Continuous Occupancy Maps With Moving Robots.
+
+
+
+
+
+
+
+########################################################################################################################
+Humans and AI                              人类与AI
+
+Adapting a Kidney Exchange Algorithm to Align With Human Values.                                                        适应肾脏交换算法与人类价值对齐，有限资源的配置，根据肾脏，对人类进行选择
+
+State of the Art: Reproducibility in Artificial Intelligence.                                                           人工智能被批评为不可复制的
+
+Improving the Adversarial Robustness and Interpretability of Deep Neural Networks by Regularizing Their Input Gradients.提出正则化输入梯度来提高深度神经网络的对抗鲁棒性和可解释性
+
+Beyond Sparsity: Tree Regularization of Deep Models for Interpretability.                                               可解释性的深模型的树解释性
+
+A Low-Cost Ethics Shaping Approach for Designing Reinforcement Learning Agents.                                         人类与伦理准则通过强化学习学习
+
+WiFi-Based Human Identification via Convex Tensor Shapelet Learning.                                                    wifi进行人类识别
+
+
+########################################################################################################################
+Search and Constraint Satisfaction      搜索与约束满足
+
+Sweep-Based Propagation for String Constraint Solving.                                                                  用于字符串
+
+MaxSAT Resolution With the Dual Rail Encoding.                                                                          Max SAT分辨率与双轨编码。
+
+Community-Based Trip Sharing for Urban Commuting.                                                                       城市的路径分配问题
+
+On Cryptographic Attacks Using Backdoors for SAT.                                                                       使用SATS后门的密码攻击。
+
+Learning Robust Search Strategies Using a Bandit-Based Approach.                                                        使用基于强盗的方法学习鲁棒搜索策略。
+
+########################################################################################################################
+Vision
+
+SEE: Towards Semi-Supervised End-to-End Scene Text Recognition.                                                         文本识别
+
+DLPaper2Code：从深度学习研究论文中自动生成代码。
+
+电影问题回答：记住分层视觉内容的文本线索。
+
+展会，奖励并告诉：叙事段落从照片流通过对抗性训练的自动生成。
+
+
+########################################################################################################################
+Deployed            部署
+
+Secure and Automated Enterprise Revenue Forecasting.                                                                    安全和自动化的企业收入预测。
+
+Sketch Worksheets in STEM Classrooms: Two Deployments.                                                                  草图工作表。
+
+An Automated Employee Timetabling System for Small Businesses.                                                          小型企业的自动员工排课系统。
+
+Horizontal Scaling With a Framework for Providing AI Solutions Within a Game Company.                                   为游戏公司提供解决方案。
+
+Hi, How Can I Help You?: Automating Enterprise IT Support Help Desks.                                                   嘿，自动企业IT支持桌面
+
+SmartHS: An AI Platform for Improving Government Service Provision.                                                     一个AI平台提供政府条款
+
+########################################################################################################################
+
+Emerging                新兴的
+
+Bandit-Based Solar Panel Control.                                                                                       基于强制的太阳能板控制
+
+Death vs. Data Science: Predicting End of Life.                                                                         预测死亡
+
+CRM Sales Prediction Using Continuous Time-Evolving Classification.                                                     CRM销售预测使用连续时间演变分类
+
+Novel Exploration Techniques (NETs) for Malaria Policy Interventions.                                                   疟疾政策干预的新探索
+
+SPOT Poachers in Action: Augmenting Conservation Drones With Automatic Detection in Near Real Time.                     对偷猎者的发现
+
+InspireMe: Learning Sequence Models for Stories.                                                                        自然语言提取故事特征，预测下一个过程，对故事理解的处理
+
+Assessing National Development Plans for Alignment With Sustainable Development Goals via Semantic Search.              通过语义搜索评估国家发展计划于可持续目标的一致性
+
+Classification of Malware by Using Structural Entropy on Convolutional Neural Networks.                                 分类恶意软件
+
+Optimal Pricing for Distance-Based Transit Fares.                                                                       基于距离的公交票价定优
+
+Discovering Program Topoi Through Clustering.                                                                           通过聚类发现程序Topoi
+
+Upping the Game of Taxi Driving in the Age of Uber.                                                                     在Uber时代掀起了出租车驾驶游戏？
+
+Mobile Network Failure Event Detection and Forecasting With Multiple User Activity Data Sets.                           移动网络的故障事件检测
+
+Multi-Task Deep Learning for Predicting Poverty From Satellite Images.                                                  从卫星图像中预测贫困的多任务深度学习
+
+Investigating the Role of Ensemble Learning in High-Value Wine Identification.                                          高级红酒辨别
+
+Learning to Become an Expert: Deep Networks Applied to Super-Resolution Microscopy.                                     学习成为专家，深度网络应用于超分辨显微技术
+
+Computer-Assisted Authoring for Natural Language Story Scripts.                                                         自然语言故事脚本的计算机辅助创作。
+
+A Water Demand Prediction Model for Central Indiana.                                                                    水资源预测
+
+TipMaster: A Knowledge Base of Authoritative Local News Sources on Social Media.                                        新闻权威性
+
+Adapting to Concept Drift in Credit Card Transaction Data Streams Using Contextual Bandits and Decision Trees.          使用上下文匪徒和决策树来适应信用卡交易数据流中的概念漂移。
+
+Aida: Intelligent Image Analysis to Automatically Detect Poems in Digital Archives of Historic Newspapers.              阿伊达：在历史报纸数字档案中自动检测诗歌的智能图像分析。
+
+VoC-DL: Revisiting Voice Of Customer Using Deep Learning.                                                               用深度学习审视客户的声音
+
+DarkEmbed: Exploit Prediction With Neural Language Models.                                                              利用神经语言模型进行预测
+
+Gesture Annotation With a Visual Search Engine for Multimodal Communication Research.                                   通信研究的手势标注
+
+Mars Target Encyclopedia: Rock and Soil Composition Extracted From the Literature.                                      火星目标百科全书：从文献中提取岩石和土壤成分。
+
+Deep Mars: CNN Classification of Mars Imagery for the PDS Imaging Atlas.                                                深火星：美国有线电视新闻网Mars图像分类的PDS成像阿特拉斯。
+
+Is a Picture Worth a Thousand Words? A Deep Multi-Modal Architecture for Product Classification in E-Commerce.          这幅画值一千个字吗？电子商务中产品分类的多模式体系结构
+
+                            我可以站在编辑的角度考虑这件事，这个东西是否值得投资
+########################################################################################################################
+
+ Challenge      挑战
+
+ Batting Order Setup in One Day International Cricket.                                                                  击球顺序在一天的国际板球比赛中
+
+ AI Challenges in Synthetic Biology Engineering.                                                                        人工合成生物工程中的人工智能
+
+########################################################################################################################
+
+Full Papers
+
+Data Analysis Competition Platform for Educational Purposes: Lessons Learned and Future Challenges.                     数据分析竞争平台以教育为目的
+
+Gesturing and Embodiment in Teaching: Investigating the Nonverbal ‎Behavior of Teachers in a Virtual Rehearsal
+Environment                                                                                                             手势和身体语言在教育的应用
+
+Introducing Ethical Thinking About Autonomous Vehicles Into an AI Course.                                               将自主车辆的伦理思考引入AI课程
+
+Dropout Model Evaluation in MOOCs                                                                                       慕课网的退学评估
+
+Investigating Active Learning for Concept Prerequisite Learning.                                                        调查主动学习的概念先决条件学习。
+
+诊断大学生主题能力和预测向量空间中的学位完成。
+
+一个帮助学习者找到合适材料的电子学习推荐人。
+
+利用发展测试的时间模式对学前教育学习延续的预测模型。
+
+
+########################################################################################################################
+
+poster paper
+
+通过人工智能解决技术，哲学，伦理问题
+
+大学级教育机器人的强大Thymio。
+
+智能系统驾驶执照。
+
+########################################################################################################################
+Model AI Assignments
+
+模型人工智能分配
+
+
+########################################################################################################################
+
+Senior Track        高级跑道
+
+聚类 - 理论家和从业者都做错了什么。
+
+########################################################################################################################
+
+Doctoral Consortium
+
+FgER: Fine-Grained Entity Recognition.
+
+网络防御的游戏理论威胁筛选和欺骗技术。
+
+########################################################################################################################
+
+Student Abstracts
+
+情感词典增强基于注意力的LSTM用于情感分类。
+
+将儿童自动检测到的面部表情与他们在RoboTutor中的行为联系起来。
+
+
+
+
+########################################################################################################################
+
+Demonstrations
+
+
+
+
+
+
+
+
+
+
+使用CHISSL进行大规模交互式机器学习。
+
+MAgent：人工集体智力的多智能强化学习平台。
+
+Lookine：让盲人听到的笑容。
 
 
 
@@ -113,4 +822,72 @@ Machine Learning Applications
 帮人认清自己内心的黑暗面
 """
 
+
+你的图表来自哪个世界。 1468年至1478年
+
+随机游戏中的在线强化学习
+
+
+NIPS 太理论了，ICML
+
+
+
+
+
+ACL
+分层神经故事的产生
+
+学习用合作鉴别家写作。
+
+推文和历史价格的股票运动预测。
+
+                    idea：在弹幕场景下的文本摘要
+为写意总结全球编码
+
+                    idea:对文章的没一章进行文本摘要
+
+基于学习的复合度量标准，用于改进字幕评估
+
+如果可以欺骗我：对抗性写作的琐事挑战问题。
+
+ICML
+
+
+IJCAI
+
+也是什么都有
+
+从职业轨迹中提取职称层次：贝叶斯视角
+
+自然答案生成的课程学习
+Aesop：会话AI的视觉叙事平台。
+中国诗歌生成与工作记忆模型
+迈向阅读理解长文档。
+王文，张伟，王军，骏驰燕，宏远查：
+学习对用户生成的文本内容受欢迎程度预测顺序关系。 1625年至1631年
+学习对用户生成的文本内容受欢迎程度预测顺序关系。
+
+
+SIGMOD
+在户外跑步者通过机器学习和传感器融合疲劳预测
+
+职业转型与轨迹：计算机案例研究。
+
+sigmod  更偏向于存储一些
+sigKDD  有很多有意思的应用
+
+
+ICDE   也比较有意思
+
+VLDB        有硬件
+SIGIR               这个也是比较有意思的
+理解和评估用户对音乐发现的满意度
+学术论文同行评审文本的情感分析。
+从微博中识别子事件和总结与灾难相关的信息
+监护人的崛起：事实检查URL建议打击假新闻。
+科学报告中句子的引用价值
+LessonWare：挖掘学生笔记以提供个性化反馈
+社交媒体的实时小说事件检测。
+
+                                idea:绘画系统需要
 
