@@ -17,4 +17,17 @@ class PTBModel(object):
     vocab_size =
 
     def lstm_cell(self):
-        return tf.contrib.rnn.BasicLSTMCell(size,)
+        return tf.contrib.rnn.BasicLSTMCell(size,forget_bias = 0.0,state_is_)
+
+
+
+    1.num_units
+    2.activation
+    3.reuse
+    4.name
+    5.dtype
+
+
+
+
+1. 2-D

@@ -1,0 +1,27 @@
+1.tensor 一般指的是数据
+2.varable 根基
+3.plcahoder 占位符
+4.op operation就是节点，会被投入到底层，再进行操作，输出的是0个tensor
+
+
+1.模型的喂 feed_dict
+2.模型的取得，fetch_dict
+
+3.设定GPU和GPU分配
+
+4.模型的存取
+
+5.tensorflow 设置检查点的两种方法：1.按照迭代次数保存，2.按照时间保存
+
+
+
+
+
+
+
+
+
+共享变量：
+
+
+
